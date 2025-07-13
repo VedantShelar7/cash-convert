@@ -7,9 +7,9 @@ A beginner-friendly Python CLI app that converts currency between INR, USD, EUR,
 ## 🧠 Features
 
 - 💱 Converts between 5 major currencies.
-- 🧮 Uses hardcoded exchange rates
-- 🖥️ CLI-based for quick and lightweight use
-- 🐍 Pure Python — no external libraries needed
+- 🧮 Uses hardcoded exchange rates.
+- 🖥️ CLI-based for quick and lightweight use.
+- 🐍 Pure Python — no external libraries neede.
 
 ---
 
